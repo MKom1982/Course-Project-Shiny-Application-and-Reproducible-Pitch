@@ -8,4 +8,4 @@ As an output, it gives distance & height of projectile motion, and draws the tra
 
 The final result can be seen on https://mkomisarz.shinyapps.io/basic_physics/.
 
-The presentation explaining the application can be seen here: 
+The presentation explaining the application can be seen here: http://rpubs.com/MKomisarz/DDP_PGA3
